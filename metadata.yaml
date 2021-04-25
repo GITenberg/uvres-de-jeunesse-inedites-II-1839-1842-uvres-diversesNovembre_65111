@@ -1,5 +1,8 @@
 _repo: uvres-de-jeunesse-inedites-II-1839-1842-uvres-diversesNovembre_65111
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65111-h/images/cover.jpg
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gustave_Flaubert
     - http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65111#uvres-de-jeunesse-inedites-II-1839-1842-uvres-diversesNovembre
 gutenberg_issued: '2021-04-19'
 gutenberg_type: Text
 identifiers:
