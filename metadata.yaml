@@ -1,0 +1,25 @@
+_repo: uvres-de-jeunesse-inedites-II-1839-1842-uvres-diversesNovembre_65111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gustave_Flaubert
+    - http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_issued: '2021-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65111'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "\x8Cuvres de jeunesse inédites\nII: 1839-1842. \x8Cuvres diverses.—Novembre."
+url: http://www.gutenberg.org/ebooks/65111
